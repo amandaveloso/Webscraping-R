@@ -13,7 +13,7 @@ curl https://api.openai.com/v1/chat/completions \ # nolint
 url1 <- "https://api.openai.com/v1/chat/completions"
 
 headers <- c(`Content-Type` = "application/json",
-             `Authorization` = "Bearer ssk-BmJcdbNE6HdeC0iemqcTT3BlbkFJEf9kqwpTFd1cnc8mXvPX")
+             `Authorization` = "Bearer CHAVE")
 
 
 
